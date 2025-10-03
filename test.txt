@@ -1,1 +1,2 @@
 This is a simple text file.
+Added a new line to test aws codepipeline trigger
